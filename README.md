@@ -9,9 +9,10 @@ PS7: LASSO Regularization
     Slack, GitHub, and Zoom. These are professional skills that I have
     found invaluable for my career.
     1.  If you would like to be assigned to a team chosen by me, please
-        let me know in a group Slack DM by **Saturday 5/4 9pm Eastern**.
+        let me know in a group Slack DM by **Saturday 4/4 9pm Eastern**.
+        I will then merge you into the same team on GitHub.
     2.  If you would like to work in self-chosen groups, please let me
-        know in a group Slack DM by **Sunday 5/4 9pm Eastern** so that I
+        know in a group Slack DM by **Sunday 4/4 9pm Eastern** so that I
         can change your teams on GitHub.
 2.  By **Friday 4/10 9pm Eastern** (note evening due time) you must
     submit all your work on GitHub.
